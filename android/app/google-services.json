@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872470211015",
+    "project_id": "deep-link-flutter",
+    "storage_bucket": "deep-link-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872470211015:android:d3af6912e1b4655f22d1e2",
+        "android_client_info": {
+          "package_name": "com.example.deep_uni_link_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872470211015-aoj601c4cgo33pq61o88eiecg82ktohi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-v4gPykGyDl_HKMFFcqM0bnX9CNz5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872470211015-aoj601c4cgo33pq61o88eiecg82ktohi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
